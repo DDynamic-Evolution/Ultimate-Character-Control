@@ -326,6 +326,35 @@ Activate via: `Plugins > Hoverheight`
 
 Access is controlled via the `.conf` notecard within UCC.
 
+### Access Levels
+
+| Level | Description |
+|-------|-------------|
+| **Owner Only** | Only the object owner has access |
+| **Friends** | Owner and friends list |
+| **Open Access** | Everyone can access |
+
+### Master System
+
+You can grant full access to another avatar by setting them as **Master**:
+
+1. Go to **Access** menu
+2. Click **SET_MASTER**
+3. Enter the 36-character UUID of the avatar
+4. The master can now access your UCC with full permissions
+
+To remove a master:
+1. Go to **Access** menu
+2. Click **REMOVE_MASTER**
+
+The master UUID is stored in LinksetData and persists across resets.
+
+### Managing Access Lists
+
+- **Banned list**: Add UUIDs to `accessblacklist=` in `.conf`
+- **Whitelist**: Add UUIDs to `accesswhitelist=` in `.conf`
+- Click **LIST** in the Access menu to view current bans/whitelists
+
 ---
 
 ## 10. Plugins
