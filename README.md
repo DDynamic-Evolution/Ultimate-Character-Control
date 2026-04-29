@@ -481,7 +481,40 @@ Purchase an effect, place the effect prim in the correct folder, then use the in
 
 ---
 
-## 16. API / Creators
+## 16. Installer
+
+The built-in installer (`core.installer.lsl`) automatically creates the required RLV folder structure in your inventory.
+
+### How to Use
+
+1. Click your UCC2 HUD or object
+2. Go to **Options** → **Installer**
+3. Accept the folder offers in the inventory popup
+4. Delete the `deleteme` notecards from the new folders afterward
+
+### Folders Created
+
+```
+#RLV/~undressify/
+#RLV/~undressify/av/
+#RLV/~undressify/of/
+#RLV/~undressify/addon/
+#RLV/~undressify/av_addons/
+```
+
+**Note:** `avspec` is enabled by default. Create one outfit folder per avatar manually:
+```
+#RLV/~undressify/of_<avatarname>/
+```
+
+### Requirements
+
+- RLV must be enabled in your viewer
+- A notecard named `deleteme` must exist in the UCC2 object's inventory (serves as placeholder)
+
+---
+
+## 17. API / Creators
 
 UCC listens on **channel 5100** and sends on **channel 5200**.
 
