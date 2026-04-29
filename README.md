@@ -3,6 +3,31 @@
 **UCC — Ultimate Character Control** is a Second Life HUD/tool for managing avatar outfits, animations, sounds, and access control via RLV.
 
 > Successor and rebranded version of the original UCC system, available on the [Second Life Marketplace](https://marketplace.secondlife.com/p/Disvail-Dynamics-Ultimate-Character-Control/27304089).
+
+---
+
+## Table of Contents
+
+1. [Overview](#1-overview)
+2. [Group & Discord](#2-group--discord)
+3. [Optional HUD](#3-optional-hud)
+4. [Avatar Folder Setup](#4-avatar-folder-setup)
+5. [Addons & AvAddons](#5-addons--avaddons)
+6. [Sounds & Animations](#6-sounds--animations)
+7. [Hoverheight Control](#7-hoverheight-control)
+8. [Options](#8-options)
+9. [Access](#9-access)
+10. [Plugins](#10-plugins)
+11. [SafeSitter](#11-safesitter)
+12. [Tips & Tricks](#12-tips--tricks)
+13. [Config Notecard](#13-config-notecard)
+14. [Additional Notecard Parameters](#14-additional-notecard-parameters)
+15. [Effects](#15-effects)
+16. [Installer](#16-installer)
+17. [API / Creators](#17-api--creators)
+18. [FAQ](#18-frequently-asked-questions)
+19. [Changelog](#19-changelog)
+
 ---
 
 ## 1. Overview
