@@ -14,6 +14,24 @@ Access is controlled via the `.conf` notecard within UCC.
 
 ---
 
+## PIN Protection
+
+You can lock your UCC with a PIN code to prevent unauthorized access via the menu.
+
+1. Go to **Access** menu
+2. Click **PIN**
+3. Enter a numeric PIN code
+4. From now on, anyone opening the menu must enter the correct PIN first
+
+To remove the PIN:
+1. Go to **Access** menu
+2. Click **PIN**
+3. Enter `0` to clear the PIN
+
+The PIN is stored in LinksetData and persists across resets.
+
+---
+
 ## Master System
 
 You can grant full access to another avatar by setting them as **Master**:
