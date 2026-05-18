@@ -36,20 +36,20 @@
 
 | Topic | File |
 |-------|------|
-| Avatar & Outfit Folder Setup | [docs/folder-setup.md](docs/folder-setup.md) |
-| Addons & AvAddons | [docs/addons.md](docs/addons.md) |
-| Sounds & Animations | [docs/sounds-animations.md](docs/sounds-animations.md) |
-| Hoverheight Control | [docs/hoverheight.md](docs/hoverheight.md) |
-| Options | [docs/options.md](docs/options.md) |
-| Access Control | [docs/access.md](docs/access.md) |
-| Plugins | [docs/plugins.md](docs/plugins.md) |
-| SafeSitter | [docs/safesitter.md](docs/safesitter.md) |
-| Config Notecard | [docs/config.md](docs/config.md) |
-| Effects & Installer | [docs/effects-installer.md](docs/effects-installer.md) |
-| API / Creators | [docs/api.md](docs/api.md) |
-| Tips & Tricks | [docs/tips.md](docs/tips.md) |
-| FAQ | [docs/faq.md](docs/faq.md) |
-| Changelog | [docs/changelog.md](docs/changelog.md) |
+| Avatar & Outfit Folder Setup | [docs/folder-setup.md](folder-setup.md) |
+| Addons & AvAddons | [docs/addons.md](addons.md) |
+| Sounds & Animations | [docs/sounds-animations.md](sounds-animations.md) |
+| Hoverheight Control | [docs/hoverheight.md](hoverheight.md) |
+| Options | [docs/options.md](options.md) |
+| Access Control | [docs/access.md](access.md) |
+| Plugins | [docs/plugins.md](plugins.md) |
+| SafeSitter | [docs/safesitter.md](safesitter.md) |
+| Config Notecard | [docs/config.md](config.md) |
+| Effects & Installer | [docs/effects-installer.md](effects-installer.md) |
+| API / Creators | [docs/api.md](api.md) |
+| Tips & Tricks | [docs/tips.md](tips.md) |
+| FAQ | [docs/faq.md](faq.md) |
+| Changelog | [docs/changelog.md](changelog.md) |
 
 ---
 
