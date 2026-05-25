@@ -90,42 +90,42 @@ timeout=30
 
 ```
 #RLV/
-└── ~undressify/
-    ├── addon/
-    │   ├── HUDs/
-    │   │   ├── gestureHUD/
-    │   │   └── AOcontroller/
-    │   ├── Accessories/
-    │   │   ├── smartGlasses/
-    │   │   └── wristwatch/
-    │   └── Scripts/
-    │       └── autoSit/
+└── ~undressify
+    ├── addon
+    │   ├── HUDs
+    │   │   ├── gestureHUD
+    │   │   └── AOcontroller
+    │   ├── Accessories
+    │   │   ├── smartGlasses
+    │   │   └── wristwatch
+    │   └── Scripts
+    │       └── autoSit
     │
-    ├── effects/
-    │   └── effectname/
+    ├── effects
+    │   └── effectname
     │
-    ├── av_addons/
-    │   ├── Luna/
-    │   │   ├── Toys/
-    │   │   │   ├── bubblewand/
-    │   │   │   └── leash/
-    │   │   ├── HUDs/
-    │   │   │   └── lunaHUD/
-    │   │   └── Accessories/
-    │   │       └── collar/
-    │   └── Rex/
-    │      ├── Gear/
-    │      │   ├── combatVest/
-    │      │   └── scanner/
-    │      └── HUDs/
-    │          └── rexHUD/
+    ├── av_addons
+    │   ├── Luna
+    │   │   ├── Toys
+    │   │   │   ├── bubblewand
+    │   │   │   └── leash
+    │   │   ├── HUDs
+    │   │   │   └── lunaHUD
+    │   │   └── Accessories
+    │   │       └── collar
+    │   └── Rex
+    │      ├── Gear
+    │      │   ├── combatVest
+    │      │   └── scanner
+    │      └── HUDs
+    │          └── rexHUD
     │
-    ├── av/
-    │   ├── Luna/
-    │   └── Rex/
+    ├── av
+    │   ├── Luna
+    │   └── Rex
     │
-    └── of/
-        └── CasualLook/
+    └── of
+        └── CasualLook
             ├── top_1
             ├── pants_1
             ├── top_2
