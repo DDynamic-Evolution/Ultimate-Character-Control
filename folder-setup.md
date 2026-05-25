@@ -11,7 +11,10 @@ You must create the folder structure manually. This structure is essential for U
 
 **Avatar folder:**
 ```
-#RLV/~undressify/av/youravatarname
+#RLV
+└──~undressify
+    └──av
+        └──youravatarname
 ```
 
 Place your naked avatar into this folder. You can have multiple avatar folders. Load an avatar using the **Avatar** button.
@@ -23,15 +26,17 @@ Place your naked avatar into this folder. You can have multiple avatar folders. 
 You can organize outfits per avatar by enabling **avatar-specific mode** (`avspecific`).
 
 ```
-#RLV/~undressify/of_avatarname/
-└── nameofyouroutfit/
-    ├── top_1
-    ├── pants_1
-    ├── top_2
-    ├── pants_2
-    ├── top_3
-    ├── pants_3
-    └── top_0 / pants_0 (optional)
+#RLV
+└──~undressify
+    └──of_avatarname
+        └── nameofyouroutfit
+            ├── top_1
+            ├── pants_1
+            ├── top_2
+            ├── pants_2
+            ├── top_3
+            ├── pants_3
+            └── top_0 / pants_0 (optional)
 ```
 
 ---
