@@ -1,5 +1,8 @@
 # Frequently Asked Questions
 
+**Q: What makes it different to Subbi Clothes?**
+A: Subbi Clothes is basicly a copy of the same system. The creator reversengineered Undressify/UCC!
+
 **Q: It keeps spamming me with `@…` lines.**
 A: Activate RLV! Or get a viewer that includes RLV.
 
