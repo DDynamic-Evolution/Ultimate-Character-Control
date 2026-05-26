@@ -83,4 +83,6 @@ av_addons=0
 api=1
 # Distance in meters
 distance=10
+#set this to 1 if you like to have your current group to access your UCC
+groupaccess=0
 ```
