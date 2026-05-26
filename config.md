@@ -1,7 +1,7 @@
 # Config Notecard
 
 Right-click your UCC → **Edit** → **Content** tab → double-click `.config` to edit.
-
+Lines with # get ignored by the script.
 ```
 #settings 0/1 is off/on
 sounds=1
@@ -33,7 +33,7 @@ age=31
 #enable or disable agecheck via setting agecheck=0 if you have to
 agecheck=1
 
-#Use a default outfit when loading an avatar. The outfit needs to be marked with "_d"
+#Use a default outfit when loading an avatar. The outfit needs to be marked with "_d" ath the end of a foldername
 defoutfit=1
 #Want the default outfit to be public?
 defpublic=0
@@ -96,6 +96,9 @@ blacklistobjects=ObjectName1,ObjectName2
 blacklistcreators=uuid1,uuid2
 blacklistusers=uuid3,uuid4
 whitelist=uuid5,uuid6
+
+# Emergency list for RestartAvoider containing teleport targets
+emergencylist=Hahne/200/200/20,Rodel,Leipzig,Mandrake,ANWR
 ```
 
 ---
