@@ -30,6 +30,7 @@ api=1
 distance=10
 #minimum age in days of a user to access
 age=31
+#enable or disable agecheck via setting agecheck=0 if you have to
 agecheck=1
 
 #Use a default outfit when loading an avatar. The outfit needs to be marked with "_d"
