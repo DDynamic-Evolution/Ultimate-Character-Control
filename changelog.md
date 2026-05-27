@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 2.07 (pending)
+- Added: Groupaccess
+
 ## Version 2.06
 - Fixed: Main button was missing from Outfit, Avatar, and Clothing menus (wrong internal caller suppressed it)
 - Fixed: Main button was missing from the PIN sub-menu in Options
