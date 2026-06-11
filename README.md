@@ -66,10 +66,10 @@
 ## Tested SL Clients
 
 **Working:**
-Alchemy Viewer, Aperture Viewer, Firestorm Viewer, Black Dragon, Restrained Love Viewer, Kokua Viewer, Catznip, Genesis, Singularity, Lumiya Mobile Client
+Alchemy Viewer, Aperture Viewer, Firestorm Viewer, Restrained Love Viewer, Kokua Viewer, Catznip, Genesis, Singularity, Lumiya Mobile Client
 
 **Not Recommended:**
 Radegast Text Viewer (no full RLV), mysmartbots (paid RLV, closed source), Corrade Bot (outdated RLV, very slow)
 
 **Not Working:**
-Megaphit (no RLV), Official Second Life Viewer (no RLV)
+Megaphit (no RLV), Official Second Life Viewer (no RLV), Black Dragon (RLV was removed),
