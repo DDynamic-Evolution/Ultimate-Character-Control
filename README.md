@@ -711,7 +711,7 @@ A: No. They are one part and an outfit cannot be unlinked while wearing it.
 > This changelog reflects the most recent updates to UCC. Older versions and legacy features may no longer be supported.
 
 Version 2.11
-* Added rlv rebake [Mikostorm](https://github.com/DDynamic-Evolution/MikoStorm) only
+* Added rlv rebake MikoStorm only
 
 Version 2.10
 * Moved most api calls to master/owner section
