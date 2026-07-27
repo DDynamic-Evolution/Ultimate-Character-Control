@@ -80,9 +80,8 @@ Requirements:
 
 ---
 
-## 2. Group & Discord
+## 2. Group
 
-- **Discord:** https://discord.gg/8J8aHkc6qu
 - **Inworld Group:** Search for `Disvail Dynamics` in Second Life
 
 > Note: Second Life groups are unreliable. Discord is the primary support channel.
