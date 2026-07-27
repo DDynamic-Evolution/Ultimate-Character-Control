@@ -1,4 +1,4 @@
-# Ultimate Character Control (UCC)
+# Ultimate Character Control (UCC) -- Archived
 
 **UCC — Ultimate Character Control** is a Second Life HUD/tool for managing avatar outfits, animations, sounds, and access control via RLV.
 
