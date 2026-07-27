@@ -53,7 +53,7 @@ Requirements:
 - Use an RLV-compatible viewer
 - Use your brain
 
-**Feedback & Support:** Report bugs or request features via [Discord](https://discord.gg/8J8aHkc6qu).
+**Feedback & Support:** Report bugs or request features via github issues.
 
 ### Tested SL Clients
 
