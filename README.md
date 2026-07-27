@@ -84,8 +84,6 @@ Requirements:
 
 - **Inworld Group:** Search for `Disvail Dynamics` in Second Life
 
-> Note: Second Life groups are unreliable. Discord is the primary support channel.
-
 ---
 
 ## 3. Optional HUD
