@@ -259,7 +259,17 @@ Manage Addons via the **Options** menu.
     │   ├── Luna/
     │   └── Rex/
     │
-    └── of/
+    └── of_Luna/
+        └── CasualLook/
+            ├── top_1
+            ├── pants_1
+            ├── top_2
+            ├── pants_2
+            ├── top_3
+            ├── pants_3
+            ├── base_0
+            └── stuff_0_0.100   ← optional item with hover height control
+    └── of_Rex/
         └── CasualLook/
             ├── top_1
             ├── pants_1
@@ -272,7 +282,7 @@ Manage Addons via the **Options** menu.
 ```
 
 Tips:
-- The folder under `of/` is your outfit name (e.g. `CasualLook`)
+- The folder under `of_`avatarname`/` is your outfit name (e.g. `CasualLook`)
 - Items use suffixes like `_1`, `_2`, `_3` to define layer priority
 - Items with `_0` are optional base layers
 - Append `_0.100`, `_0.050`, etc. to an item name to control avatar hover height
@@ -326,6 +336,8 @@ Activate via: `Plugins > Hoverheight`
 | Webhook         | Enter a webhook for your Discord channel to display statistics   | Optional       |
 | SendData        | Deactivates/activates the webhook                                | Optional       |
 | DistanceTracker | Tracks avatars clicking from too far away                        | Optional       |
+| Legacy Menu     | Switch to the old menustyle for clothing                         | Optional       |
+| Modern Menu     | Switch to the modern menustyle for clothing                      | Optional       |
 
 ---
 
