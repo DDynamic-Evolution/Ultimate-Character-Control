@@ -591,6 +591,7 @@ UCC listens on **channel 5100** and sends on **channel 5200**.
 | `/77 options`   | Opens options             |
 | `/77 naked`     | Loads naked layers        |
 | `/77 reload`    | Reloads current outfit    |
+| `/77 addon~category~folder` | Toggle addon folder |
 
 ### API Listener Example (LSL)
 
